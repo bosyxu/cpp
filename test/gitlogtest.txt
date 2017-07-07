@@ -1,6 +1,8 @@
 gitlogtest.txt
 
 
+add somthing base master
+
 add line
 line2
 
